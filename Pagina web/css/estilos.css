@@ -1,0 +1,172 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.header{
+    color: darkorange;
+    padding: 2% 0% 3% 5%;
+}
+.menu{
+    background-color: gray;
+    padding: 1%;
+}
+.menuopc{
+    color: white;
+    margin: 1%;
+    text-decoration: none;
+}
+.menuopc:hover{
+    background-color: lightsteelblue;
+    color: black;
+}
+
+.secpresentacion{
+    width: 100%;
+    margin-bottom: 2%;
+    background-color: lightgrey;
+    background-image: url(css\compañia.jpg);
+}
+.info{
+    vertical-align: bottom ;
+}
+.inf1{
+    color: white;
+    font-size: 200%;
+}
+.inf2{
+    color: darkorange;
+    font-size: 150%;
+}
+
+.secteam-leaders{
+    width: 100%;
+    margin: 2% 0%;
+    padding-top: 7%;
+    text-align: center;
+}
+.divleaders{
+    margin: 5%;
+    width: 25%;
+}
+
+.secservices{
+    width: 100%;
+    margin: 2% 0%;
+    background-color: darkslategray;
+}
+.divcontenedorservicios{
+    text-align: center;
+    display: inline-flex;
+    width: 100%;
+}
+.divinfo-servicios{
+    width: 20%;
+    margin: 0% 3%;
+    padding: 3% 0%;
+}
+.num{
+    color: darkorange;
+    font-size: 200%;
+}
+.tex{
+    color: white;
+    font-size: 70%;
+}
+
+.seccontact-us{
+    width: 100%;
+    margin: 2% 0%;
+    padding: 10% 0%;
+    background-color: darkslategray;
+    text-align: center;
+    color: white;
+}
+.forma{
+    margin-top: 5%;
+    width: 100%;
+}
+
+.secabout-us{
+    width: 100%;
+    margin: 2% 0%;
+    background-color: white;
+}
+.img2{
+    width: 35%;
+}
+.img2 > img{
+    width: 100%;
+    padding: 30% 0% 30% 10%;
+}
+.about{
+    width: 40%;
+    padding: 10%;
+    text-align: center;
+}
+.img3{
+    width: 30%;
+    margin: 3%;
+}
+
+.secgallery{
+    width: 100%;
+    background-color: white;
+}
+.divgal{
+    text-align: center;
+    padding: 10%;
+}
+.flechas{
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    display: inline-flex;
+    background-color: lightgray;
+}
+.divizq{
+    width: 30%;
+}
+.espacio{
+    width: 300%;
+}
+.divder{
+    width: 30%;
+}
+
+.pie{
+    width: 100%;
+    display: inline-flex;
+    color: white;
+}
+.divfooter{
+    width: 20%;
+    padding: 5%;
+    font-size: 70%;
+    background-color: darkslategray
+}
+.divfooter > h5 > img{
+    width: 15%;
+}
+.pie-ul{
+    padding: 2% 1%;
+    background-color: black;
+    width: 98%;
+    color: white;
+    display: inline-flex;
+}
+.divcopyright{
+    padding-left: 5%;
+    width: 80%;
+}
+.titulofin{
+    font-size: 80%;
+}
+.divicon{
+    width: 20%;
+}
+.icon{
+    display: inline;
+    padding: 0%;
+    margin: 0%;
+}
